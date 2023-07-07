@@ -1,0 +1,64 @@
+ *{
+    margin: 0px;
+    padding: opx;
+    box-sizing: border-box;
+ }
+
+.container{
+    max-width: 80%;
+    
+    padding: 34px;
+    margin: auto;
+}
+
+.container h1, p{
+    text-align: center;
+    font-family: 'Bacasime Antique', serif;
+}
+
+
+
+p{
+    font-size: 18px;
+    text-align: center;
+    font-family: 'Lobster' , cursive;
+}
+
+input, textarea{
+    width: 80%;
+    margin: 11px 0px;
+    padding: 7px;
+    font-size: 16px;
+    border: 2px solid #112907;
+    border-radius: 12px;
+    outline: none;
+   
+}
+
+form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.btn{
+    color: aliceblue;
+    background-color: darkblue;
+    padding: 14px 10px;
+    font-size: 20px;
+    border: 2px solid aliceblue;
+    border-radius: 14px;
+    cursor: pointer;
+}
+
+.bg{
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+    opacity: 0.9;
+}
+
+.SubmitMsg{
+    color: azure;
+}
