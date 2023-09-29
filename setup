@@ -1,0 +1,5 @@
+save file in htdocs in XAMPP
+Open XAMPP control panel, start php and mysql.
+type host in url bar to see result.
+open mysql admin
+Create new database, create new table
