@@ -1,2 +1,2 @@
-# sample-travel-Website-with-database
-Travel form accepting details and storing it, used php, html, mysql, JS, AJAX
+# travel-Website-with-database
+It includes a ravel form which accepts details and stores  it, used php, XAMPP,  html, mysql, JS, AJAX
